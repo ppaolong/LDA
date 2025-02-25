@@ -1,0 +1,11 @@
+matplotlib
+gensim
+numpy
+pandas
+pyarrow
+jupyter
+ipywidgets
+tqdm
+pythainlp
+gdown
+pyLDAvis
